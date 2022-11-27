@@ -27,7 +27,7 @@
 
 
 ## Introduction
-If we look at the global footwear market, industry trends and forecasts predict that the market will grow by 12.83 percent year-on-year by 2028. Changing lifestyles, growing economies have boosted the demand for footwear globally. There has also been a massive shift in consumer perspectives regarding footwear. Consumers no longer look at shoes and footwear to serve just function but are now gradually moving towards footwear for fashion. 
+<p style="text-align: justify">If we look at the global footwear market, industry trends and forecasts predict that the market will grow by 12.83 percent year-on-year by 2028. Changing lifestyles, growing economies have boosted the demand for footwear globally. There has also been a massive shift in consumer perspectives regarding footwear. Consumers no longer look at shoes and footwear to serve just function but are now gradually moving towards footwear for fashion. </p>
 
 India is the second largest global producer of footwear after China, accounting for 11.63% of global footwear production of 17.7 billion pairs. India produces 2065 million pairs of different categories of footwears.
 
@@ -40,9 +40,9 @@ India is the second largest global producer of footwear after China, accounting 
 ### History of Leather Aristry
 ![Alt text](https://www.caleidoscope.in/wp-content/uploads/2021/06/Leather-Artistry-in-India.jpg "a title")
 
-The leather industry in India is historical. And leather products have a huge market both domestically, as well as internationally. The common leather products include shoes, bags, pouches, and more. Leather in India dates back to as early as 3000 BC with references about it made in Vedas too. The leather industry though largely is about manufacturing and marketing. There is a significant amount of artistry and skill that this particular industry merits.
-From a creative view, leather products are exceptionally versatile and artistic. There are a some cultural aspects attached to it too. For example, the leather puppet shows or Shantiniketan leather goods are a case in point of how diversified and culturally significant is the use and creative prowess of leather. Similarly, different states master different artistry producing beautiful footwear, statues, and many other leather crafts.
-Regionally too the artistry over leather varies and excels. Where Rajasthan and Maharashtra are famous for leather footwear. West Bengal with its own Santiniketan style creates wonderful bags, wallet bags, pouches.
+<p style="text-align: justify">The leather industry in India is historical. And leather products have a huge market both domestically, as well as internationally. The common leather products include shoes, bags, pouches, and more. Leather in India dates back to as early as 3000 BC with references about it made in Vedas too. The leather industry though largely is about manufacturing and marketing. There is a significant amount of artistry and skill that this particular industry merits.</p>
+
+<p style="text-align: justify">From a creative view, leather products are exceptionally versatile and artistic. There are a some cultural aspects attached to it too. For example, the leather puppet shows or Shantiniketan leather goods are a case in point of how diversified and culturally significant is the use and creative prowess of leather. Similarly, different states master different artistry producing beautiful footwear, statues, and many other leather crafts.Regionally too the artistry over leather varies and excels. Where Rajasthan and Maharashtra are famous for leather footwear. West Bengal with its own Santiniketan style creates wonderful bags, wallet bags, pouches.</p>
 
 ![Alt text](https://www.caleidoscope.in/wp-content/uploads/2021/06/Leather-Artistry-in-Footwear.jpg "a title")
 

@@ -72,7 +72,7 @@ The Hypothesis involve multiple points to consider either all of them could be t
 - <p style="text-align: justify">The artisans got the art and skills from their forefathers and they are making the same kind of formal leather shoes from generations so they have the proper understanding and technical knowledge to make formal shoes. But the making of casual shoes or any stylish shoes require some additional knowledge or extra skill and the artisans are lacking here.</p>
 - <p style="text-align: justify">The artisans use the tradtional tools and raw material(like glue or thread) to make formal shoes but design of casual shoes is not simple as formal shoes, to make the causual shoes you need some special tools or raw material and the artisans don't have access to these things.</p>
 - It is likely possible that artisans have skills and tools to make casual shoes but they don't have any model or design to replicate.
-- <p style="text-align: justify">The other simple reason could be there is no demand, basically artisans get their orders from the local shop owners and middlemen and they are not placing any order for casual shoes.</p>
+- <p style="text-align: justify">The other simple reason could be there is no demand, basically artisans get their orders from the local shop owners and middlemen and they are not placing any order for casual shoes.</p> 
 
 ## Review of literature
 

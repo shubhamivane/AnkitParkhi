@@ -2,8 +2,7 @@
 ![Alt text](https://i.pinimg.com/originals/9b/d5/44/9bd54421a7ff68c6b4feea387bc6c974.jpg "a title")
 
 # Under the supervision of 
-## Dr. Reena Mehta
-## Associate professor (IICD)
+## Dr. Reena Mehta <br />Associate professor (IICD)
 
 # Submitted by
 ## Ankit Parkhi

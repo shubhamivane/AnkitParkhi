@@ -1,13 +1,13 @@
-# Why Causal Handmade Leather Shoes aren't available in the market?
-![Alt text](https://i.pinimg.com/originals/9b/d5/44/9bd54421a7ff68c6b4feea387bc6c974.jpg "a title")
+# Why Handmade Casual Leather Shoes aren't available in the market?
+<p align="center">
+<img src="https://i.pinimg.com/originals/9b/d5/44/9bd54421a7ff68c6b4feea387bc6c974.jpg">
+</p>
 
-# Under the supervision of 
-## Dr. Reena Mehta <br />Associate professor (IICD)
+## Under the supervision of 
+### Dr. Reena Mehta <br />Associate professor (IICD)
 
-# Submitted by
-## Ankit Parkhi
-## M.Voc(Fashion Design)
-## 3rd Semester
+## Submitted by
+### Ankit Parkhi <br/> M.Voc(Fashion Design) <br /> 3rd Semester
 
 ## Table of Content
 - Introduction
@@ -28,6 +28,7 @@
 
 ## Introduction
 If we look at the global footwear market, industry trends and forecasts predict that the market will grow by 12.83 percent year-on-year by 2028. Changing lifestyles, growing economies have boosted the demand for footwear globally. There has also been a massive shift in consumer perspectives regarding footwear. Consumers no longer look at shoes and footwear to serve just function but are now gradually moving towards footwear for fashion. 
+
 India is the second largest global producer of footwear after China, accounting for 11.63% of global footwear production of 17.7 billion pairs. India produces 2065 million pairs of different categories of footwears.
 
 | Footwear Type | Production |
@@ -46,14 +47,15 @@ Regionally too the artistry over leather varies and excels. Where Rajasthan and 
 ![Alt text](https://www.caleidoscope.in/wp-content/uploads/2021/06/Leather-Artistry-in-Footwear.jpg "a title")
 
 The most popular footwear includes the Kolhapuri chappals from Kolhapur in Maharashtra. The chappals are an iconic fashion statement, as well as a symbol of tradition. These chappals have been around since the 13th century. When the then King Bijjala encouraged its production for the upliftment of the cobblers. Also, Kolhapuri chappals are handmade using natural ingredients and hence extremely comfortable.
+
 Similarly, mojris or jootis originated under the Mughals. Decorated with crystals or gems and designed with intricate colors and designs the mojris continue to be eye-catching to date. Rajasthan became the hub of mojris where the chamar community first began to process the rawhide and then dyed them using vegetable dyes. They come in different colors and patterns, some embedded, some embroidered. The craft is evident in the design and perhaps this is one of the reasons that even leading fashion designers to incorporate the mojari on the ramp.
 
 ### Handmade Leather Shoe Industry
 India is the only country in the world where you can get the completely handmade leather footwears where as the other producers use machine to produce the leather footwears. But this Industry is not centralized and organized the reason is the artisans involved in this industry is aggregated to the certain part of India i.e. Rajasthan and Maharashtra are famous for leather footwear especially shoes. The artisans involved in this industry produce the shoes based on the order they received from the local shop owners or from middlemen. The shop owners and middlemen purchase the shoes at dirt cheap cost and sell it to customer at higher price and enjoy 60-70 percent profit margin. 
+
 The art and skills are passed from one generation to other and this became the livelihood of some communities and artisans from some specific demographic areas. Most of them are either uneducated or just completed the primary school and they didn't have enough resources to sell their handmade shoes directly to the customer and enjoy higher margin on the shoes. 
 ####  Why handmade Shoe prefered? 
-There could be alot of reasons but if we try to understand the consumer mentality then the first reason could be the quality of the product or raw material used to make the product and the other reason could be the trust on the handmade products. There are some Big brands selling their shoes and branding them as leather shoes but if we
-go throught the product and after using them we can get an idea that they are not completely made of leather and some portion of synthetic materials is used that neither properly mold itself to the shape of your feet nor absorb the moisture of the feet. Whereas hand-made shoes are mostly made of pure leather that easily molds to the shape of your foot and it soaks the moisture of your feet very well. However, handmade shoes are little bit on expensive side.
+There could be alot of reasons but if we try to understand the consumer mentality then the first reason could be the quality of the product or raw material used to make the product and the other reason could be the trust on the handmade products. There are some Big brands selling their shoes and branding them as leather shoes but if we go throught the product and after using them we can get an idea that they are not completely made of leather and some portion of synthetic materials is used that neither properly mold itself to the shape of your feet nor absorb the moisture of the feet. Whereas hand-made shoes are mostly made of pure leather that easily molds to the shape of your foot and it soaks the moisture of your feet very well. However, handmade shoes are little bit on expensive side.
 In traditional functions or wedding people wear traditional clothes and to match the attire people want traditional footwear, handmade products are the first preferences.
 ####  Why Handmade Leather Shoe Industry is not growing same as Footwear Industry?
 India is only behind China as the largest producer of footwear globally. The leather and non-leather segments, driven by a robust domestic market, make up the Indian footwear industry. According to Invest India’s report on the ‘Non-leather footwear Industry in India’, the sector in India is projected to increase eight-fold by 2030. India’s non-leather footwear industry will soon cross the $6 billion mark by 2024. But the Handmade Leather Shoe Industry is not growing with the same rate. 

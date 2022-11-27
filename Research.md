@@ -2,13 +2,13 @@
 ![Alt text](https://i.pinimg.com/originals/9b/d5/44/9bd54421a7ff68c6b4feea387bc6c974.jpg "a title")
 
 # Under the supervision of 
-# Dr. Reena Mehta
+## Dr. Reena Mehta
 ## Associate professor (IICD)
 
 # Submitted by
-# Ankit Parkhi
-# M.Voc(Fashion Design)
-# 3rd Semester
+## Ankit Parkhi
+## M.Voc(Fashion Design)
+## 3rd Semester
 
 ## Table of Content
 - Introduction
@@ -30,6 +30,7 @@
 ## Introduction
 If we look at the global footwear market, industry trends and forecasts predict that the market will grow by 12.83 percent year-on-year by 2028. Changing lifestyles, growing economies have boosted the demand for footwear globally. There has also been a massive shift in consumer perspectives regarding footwear. Consumers no longer look at shoes and footwear to serve just function but are now gradually moving towards footwear for fashion. 
 India is the second largest global producer of footwear after China, accounting for 11.63% of global footwear production of 17.7 billion pairs. India produces 2065 million pairs of different categories of footwears.
+
 | Footwear Type | Production |
 | ------ | ------ |
 | Leather Footwear | 909 Million Pairs |

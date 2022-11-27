@@ -62,17 +62,17 @@ India is the second largest global producer of footwear after China, accounting 
 
 The reasons are following.
  - Goverment Policies on animal slaughter it is not the biggest one but still it is affecting the growth.
- - The rapid evolution of Non-Leather Shoe Industry in which you can get hundreds of types of shoes with different styles and colours. The big brands which are in this space is spending alot to promote their products and lauching new shoes frequently to attract consumers.
+ - <p style="text-align: justify">The rapid evolution of Non-Leather Shoe Industry in which you can get hundreds of types of shoes with different styles and colours. The big brands which are in this space is spending alot to promote their products and lauching new shoes frequently to attract consumers.</p>
  
 ## Objective
 <p style="text-align: justify">The purpose of this research is to figure out why the artisans or the craftmen involved in the Handmade Leather Shoe Industry is not able to make the casual leather shoes where as The Big Brands which are selling leather shoes already started selling the casual leather shoes and captured majority of market and the demand is keep on rising.</p>
 
 ## Hypothesis
 The Hypothesis involve multiple points to consider either all of them could be true or some of them could be true.
-- The artisans got the art and skills from their forefathers and they are making the same kind of formal leather shoes from generations so they have the proper understanding and technical knowledge to make formal shoes. But the making of casual shoes or any stylish shoes require some additional knowledge or extra skill and the artisans are lacking here.
-- The artisans use the tradtional tools and raw material(like glue or thread) to make formal shoes but design of casual shoes is not simple as formal shoes, to make the causual shoes you need some special tools or raw material and the artisans don't have access to these things.
+- <p style="text-align: justify">The artisans got the art and skills from their forefathers and they are making the same kind of formal leather shoes from generations so they have the proper understanding and technical knowledge to make formal shoes. But the making of casual shoes or any stylish shoes require some additional knowledge or extra skill and the artisans are lacking here.</p>
+- <p style="text-align: justify">The artisans use the tradtional tools and raw material(like glue or thread) to make formal shoes but design of casual shoes is not simple as formal shoes, to make the causual shoes you need some special tools or raw material and the artisans don't have access to these things.</p>
 - It is likely possible that artisans have skills and tools to make casual shoes but they don't have any model or design to replicate.
-- The other simple reason could be there is no demand, basically artisans get their orders from the local shop owners and middlemen and they are not placing any order for casual shoes.
+- <p style="text-align: justify">The other simple reason could be there is no demand, basically artisans get their orders from the local shop owners and middlemen and they are not placing any order for casual shoes.</p>
 
 ## Review of literature
 

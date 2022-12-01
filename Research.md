@@ -71,7 +71,7 @@ The reasons are following.
 The Hypothesis involve multiple points to consider either all of them could be true or some of them could be true.
 - <p style="text-align: justify">The artisans got the art and skills from their forefathers and they are making the same kind of formal leather shoes from generations so they have the proper understanding and technical knowledge to make formal shoes. But the making of casual shoes or any stylish shoes require some additional knowledge or extra skill and the artisans are lacking here.</p>
 - <p style="text-align: justify">The artisans use the tradtional tools and raw material(like glue or thread) to make formal shoes but design of casual shoes is not simple as formal shoes, to make the causual shoes you need some special tools or raw material and the artisans don't have access to these things.</p>
-- It is likely possible that artisans have skills and tools to make casual shoes but they don't have any model or design to replicate.
+- <p style="text-align: justify">It is likely possible that artisans have skills and tools to make casual shoes but they don't have any model or design to replicate.</p>
 - <p style="text-align: justify">The other simple reason could be there is no demand, basically artisans get their orders from the local shop owners and middlemen and they are not placing any order for casual shoes.</p> 
 
 ## Review of literature
@@ -80,6 +80,34 @@ The Hypothesis involve multiple points to consider either all of them could be t
 <p align="center">
 <img src="MindMap.png">
 </p>
+
+### Questionnaire
+- What is your highest level of Education?
+  - <input type="radio" name="Illiterate" id="Illiterate"/><label for="Illiterate">Illiterate</label>
+  - <input type="radio" name="Primary School" id="ps"/><label for="ps">Primary School</label>
+  - <input type="radio" name="Middle School" id="ms"/><label for="ms">Middle School</label>
+  - <input type="radio" name="High School" id="hs"/><label for="hs">High School</label>
+  - <input type="radio" name="Higher Secondary School" id="hss"/><label for="hss">Higher Secondary School</label>
+  - <input type="radio" name="Diploma" id="diploma" /><label for="diploma">Diploma</label>
+  - <input type="radio" name="Graduate" id="graduate"/><label for="graduate">Graduate</label>
+  - <input type="radio" name="Post Graduate" id="pg"/><label for="pg">Post Graduate</label>
+  - <input type="radio" name="Other" id="other"/><label for="other">Other</label>
+  - If Other Please mention : 
+- How long have you been in this occupation?
+- How do you choose raw material for shoe making?
+- What tools do you use?
+- Apart from leather what other raw materials do you use?
+- How many different kind of shoes you can make?
+- What is the average cost price of the shoe?
+- What is the selling price of the shoe(Retail and Wholesale)?
+- Can you make causal shoes?
+- What raw materials and tools required you to make casual shoes?
+- According to you, What will be the cost price to make casual shoes?
+- Why don't you make casual shoes?
+  - <input type="radio" name="option1" id="option1" /><label for="option1">You don't know how to make casual shoes.</label>
+  - <input type="radio" name="option2" id="option2" /><label for="option2">You don't have tools and raw material to make casual shoes.</label>
+  - <input type="radio" name="option3" id="option3" /><label for="option3">You think you can make casual shoes but you need help in design or you need a model or replica to make causal shoes.</label>
+  - <input type="radio" name="option4" id="option4" /><label for="option4">You have everything to make casual shoes but there is no demand.</label>
 
 ## Limitation
 

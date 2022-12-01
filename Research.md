@@ -78,7 +78,7 @@ The Hypothesis involve multiple points to consider either all of them could be t
 
 ## Methodology
 <p align="center">
-<img src="MindMap.jpeg">
+<img src="MindMap.png">
 </p>
 
 ## Limitation
